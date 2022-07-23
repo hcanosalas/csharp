@@ -1,0 +1,14 @@
+/home/m4ster/Escritorio/netcore/app1/bin/Debug/netcoreapp3.1/linux-x64/app1
+/home/m4ster/Escritorio/netcore/app1/bin/Debug/netcoreapp3.1/linux-x64/app1.deps.json
+/home/m4ster/Escritorio/netcore/app1/bin/Debug/netcoreapp3.1/linux-x64/app1.runtimeconfig.json
+/home/m4ster/Escritorio/netcore/app1/bin/Debug/netcoreapp3.1/linux-x64/app1.runtimeconfig.dev.json
+/home/m4ster/Escritorio/netcore/app1/bin/Debug/netcoreapp3.1/linux-x64/app1.dll
+/home/m4ster/Escritorio/netcore/app1/bin/Debug/netcoreapp3.1/linux-x64/app1.pdb
+/home/m4ster/Escritorio/netcore/app1/obj/Debug/netcoreapp3.1/linux-x64/app1.csproj.AssemblyReference.cache
+/home/m4ster/Escritorio/netcore/app1/obj/Debug/netcoreapp3.1/linux-x64/app1.GeneratedMSBuildEditorConfig.editorconfig
+/home/m4ster/Escritorio/netcore/app1/obj/Debug/netcoreapp3.1/linux-x64/app1.AssemblyInfoInputs.cache
+/home/m4ster/Escritorio/netcore/app1/obj/Debug/netcoreapp3.1/linux-x64/app1.AssemblyInfo.cs
+/home/m4ster/Escritorio/netcore/app1/obj/Debug/netcoreapp3.1/linux-x64/app1.csproj.CoreCompileInputs.cache
+/home/m4ster/Escritorio/netcore/app1/obj/Debug/netcoreapp3.1/linux-x64/app1.dll
+/home/m4ster/Escritorio/netcore/app1/obj/Debug/netcoreapp3.1/linux-x64/app1.pdb
+/home/m4ster/Escritorio/netcore/app1/obj/Debug/netcoreapp3.1/linux-x64/app1.genruntimeconfig.cache
